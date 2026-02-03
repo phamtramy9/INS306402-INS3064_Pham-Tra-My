@@ -1,0 +1,28 @@
+DANH MỤC TỰ ĐÁNH GIÁ (CODE REVIEW CHECKLIST)
+Học phần: INS3064 - Session 00 & 01
+Sinh viên: Phạm Trà My
+Mã sinh viên: [22070559]
+
+--- CHI TIẾT ĐÁNH GIÁ (SECTION 3.1) ---
+
+1. Cấu trúc file PHP (PHP File Structure): 2/2
+- Đã có thẻ mở <?php và thẻ đóng ?> đúng quy định.
+
+2. Khai báo biến (Variable Assignments): 2/2
+- Đã khai báo đầy đủ các biến: $name, $studentId, $class, $email.
+
+3. Câu lệnh hiển thị (Echo Statements): 2/2
+- Đã sử dụng ít nhất 4 câu lệnh echo để xuất dữ liệu ra màn hình.
+
+4. Hiển thị ngày/giờ (Date/Time Functions): 2/2
+- Đã sử dụng hàm date() để hiển thị đúng ngày và giờ hệ thống.
+
+5. Chú thích mã nguồn (Comments): 2/2
+- Đã có các đoạn comment giải thích các phần trong code.
+
+TỔNG ĐIỂM TỰ ĐÁNH GIÁ: 10/10
+
+--- DANH MỤC MINH CHỨNG (SECTION 3.2) ---
+[x] 01_Welcome_Page_Screenshot.png (Ảnh chụp màn hình trình duyệt)
+[x] 02_welcome.php (File mã nguồn PHP)
+[x] 03_Code_Review_Checklist.txt (File checklist này)
